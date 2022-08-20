@@ -7,3 +7,15 @@ I have deployed my website from Microsoft Azure and the technology that i have u
 I have also attached the screenshot of azure portal at the bottom of the readme file. This project will solve the problems of models and actors.
 here i have provided my YouTube video link which shows the project overview and step by step deployment of my project with ms azure.In order to deploy 
 the code from the ms azure firstly i have created my account on ms azure with github. then i selected my azure technology that i have to use in my project.
+
+## Home Section:
+![Screenshot (7)](https://user-images.githubusercontent.com/111636838/185743276-edb2fc3b-1f52-4bbc-970d-d5276f31aa3d.png)
+
+## Contact Section:
+![Screenshot (11)](https://user-images.githubusercontent.com/111636838/185743332-d6d726a9-5e3e-4aa6-b01a-2ff30fe1c256.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/111636838/185743334-6d38bb33-35ff-4a18-aa1a-f480981c4b49.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/111636838/185743336-f7b32dc3-9c7a-4ce7-ad2d-9321b44f0dd4.png)
+
+## Services and others:
+![Screenshot (8)](https://user-images.githubusercontent.com/111636838/185743350-aabe2f56-dfb7-492d-811e-fd7b8e0c880d.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/111636838/185743354-ebfd7cd6-d268-4894-bd56-7ab3b2fa3b3c.png)
