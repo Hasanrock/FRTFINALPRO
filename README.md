@@ -1,5 +1,5 @@
 ## FUTURE READY TALENT PROJECT BY HASAN RAZA
-#I have created a fashion blog website named "The Style Studio"/XSTYLE using the languages HTML, CSS & Javascript. It helps the people to finds the best dressing sense.
+I have created a fashion blog website named "The Style Studio"/XSTYLE using the languages HTML, CSS & Javascript. It helps the people to finds the best dressing sense.
 in this website i have made 5 sections which are home, about, dropdown, gallery and contact section. customers can easily find whatever they want.
 by using this website , it will enhance your personality if you follow our fashion influencer dressing tips and tricks so The Style Studio will provide 
 best fashion tips & tricks , by this individual looks classy and stylish. here you people can also contact from our fashion influencer.
