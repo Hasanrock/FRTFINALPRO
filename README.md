@@ -8,6 +8,8 @@ I have also attached the screenshot of azure portal at the bottom of the readme 
 here i have provided my YouTube video link which shows the project overview and step by step deployment of my project with ms azure.In order to deploy 
 the code from the ms azure firstly i have created my account on ms azure with github. then i selected my azure technology that i have to use in my project.
 
+## MY Website Link: https://victorious-dune-03d312c10.1.azurestaticapps.net/
+
 ## Home Section:
 ![Screenshot (7)](https://user-images.githubusercontent.com/111636838/185743276-edb2fc3b-1f52-4bbc-970d-d5276f31aa3d.png)
 
@@ -16,6 +18,13 @@ the code from the ms azure firstly i have created my account on ms azure with gi
 ![Screenshot (12)](https://user-images.githubusercontent.com/111636838/185743334-6d38bb33-35ff-4a18-aa1a-f480981c4b49.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/111636838/185743336-f7b32dc3-9c7a-4ce7-ad2d-9321b44f0dd4.png)
 
+
 ## Services and others:
 ![Screenshot (8)](https://user-images.githubusercontent.com/111636838/185743350-aabe2f56-dfb7-492d-811e-fd7b8e0c880d.png)
 ![Screenshot (9)](https://user-images.githubusercontent.com/111636838/185743354-ebfd7cd6-d268-4894-bd56-7ab3b2fa3b3c.png)
+
+## AzurePortal & Deployement ScreenShots
+![2022-08-25 (1)](https://user-images.githubusercontent.com/111636838/186678531-8af124b8-bd64-4a0f-b9cd-ff228022c699.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/111636838/186678542-154b7b51-b2fc-47d7-b25f-2ea42d4f60ce.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/111636838/186678573-4aaa37f7-970d-46e3-97ce-843c42f7ecd1.png)
+
