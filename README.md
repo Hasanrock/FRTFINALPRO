@@ -14,7 +14,6 @@ the code from the ms azure firstly i have created my account on ms azure with gi
 ![Screenshot (7)](https://user-images.githubusercontent.com/111636838/185743276-edb2fc3b-1f52-4bbc-970d-d5276f31aa3d.png)
 
 ## Contact Section:
-![Screenshot (11)](https://user-images.githubusercontent.com/111636838/185743332-d6d726a9-5e3e-4aa6-b01a-2ff30fe1c256.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/111636838/185743334-6d38bb33-35ff-4a18-aa1a-f480981c4b49.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/111636838/185743336-f7b32dc3-9c7a-4ce7-ad2d-9321b44f0dd4.png)
 
